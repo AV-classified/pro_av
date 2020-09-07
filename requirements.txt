@@ -1,0 +1,5 @@
+django
+gunicorn
+r7insight_python
+watchtower
+boto3
